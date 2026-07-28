@@ -1,211 +1,348 @@
-# 👋 Hi, I'm Milan Ekanna
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Hi,%20I'm%20Milan%20Ekanna&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20MERN%20Developer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20AI%20Product%20Builder&descAlignY=54&descSize=17"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+scalable+full-stack+products;Designing+clean%2C+production-ready+architectures;Engineering+AI+agents+with+LangChain+%2B+RAG;Turning+ideas+into+systems+that+scale"/>
 
-# 🚀 Full Stack MERN Developer | Software Engineer | AI Application Builder
+<br/><br/>
 
-Building scalable web applications, backend systems, and AI-powered products with modern technologies.
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milanekanna24@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milan-devjs/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://milan-portfolio-dev.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MilanEkanna)
 
-I am a **Full Stack MERN Developer with 1.7+ years of professional experience** specializing in building **production-ready applications, scalable architectures, REST APIs, real-time systems, and high-performance user experiences.**
+</div>
 
-My engineering focus is not just writing code, but designing solutions that solve real business problems — from frontend experiences to backend architecture, database optimization, and system scalability.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203A43,100:2C5364&height=3&width=1000"/>
 
-Currently exploring the future of software development by combining:
+## 🧑‍💻 About Me
 
-🚀 Full Stack Engineering  
-🤖 Artificial Intelligence  
-🏗️ Scalable System Architecture  
-⚡ Automation & Intelligent Workflows  
+I'm a **Full Stack MERN Developer** with **1.7+ years of full-time industry experience**, plus 6 months of focused MERN training before that — so I've been building production code for a while now. I completed my **B.Tech in Information Technology (2024)**, and I care less about "writing code that works" and more about **designing systems that scale, stay maintainable, and hold up under real users**.
 
+Day to day, that means designing efficient architectures, building secure authentication flows, optimizing performance, and shipping features end-to-end — frontend, backend, database, and deployment. Lately I've been extending that into **AI product development**, working with LangChain, LangGraph, RAG pipelines, vector databases, and AI agents to build intelligent, LLM-powered features on top of traditional full-stack systems.
 
-### 🔭 Currently Building
+I do my best work in **startup-style environments** — ownership over tickets, product thinking over pure execution, and the freedom to solve problems nobody's fully defined yet.
 
-**AgentXAI — Multi-Agent AI Platform**
+<table align="center">
+<tr>
+<td>
 
-A production-focused AI ecosystem combining:
+**🎓 Education** — B.Tech, Information Technology (2024)
+**💼 Experience** — 1.7+ yrs full-time MERN + 6 mo. industry training
+**📍 Location** — Greater Noida, Uttar Pradesh, India
+**🟢 Availability** — Immediate Joiner
+**🎯 Open to** — Full Stack Developer | MERN Developer | React.js Developer | Node.js Developer | Backend Developer
 
-- MERN Stack
-- Microservices Architecture
-- LangChain
-- LangGraph
-- RAG Pipelines
-- Vector Databases
-- AI Agents
-- Redis-based Optimization
+</td>
+</tr>
+</table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203A43,100:2C5364&height=3&width=1000"/>
 
-### 🌱 Currently Learning
+## 🧭 Currently
 
-- Advanced Backend Architecture
-- System Design
-- Distributed Systems
-- Cloud Architecture
-- AI Agent Workflows
-- LLM Application Development
+- 🔭 Building **AgentXAI** — a multi-agent AI platform on a MERN + microservices backbone
+- 🌱 Deepening **system design, distributed systems, and cloud deployment** skills
+- 🤖 Exploring **AI agents, RAG pipelines, and LLM-powered product workflows**
+- 🎯 Moving from *"building applications that work"* → **"building systems that scale"**
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203A43,100:2C5364&height=3&width=1000"/>
 
-### 💡 Engineering Interests
+## 🧰 Tech Stack
 
-- Building scalable SaaS products
-- Backend engineering
-- Real-time applications
-- AI-powered applications
-- Developer productivity tools
-- Clean architecture
+**Frontend**
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+**Database & Caching**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**AI Engineering**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant%20Vector%20DB-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203A43,100:2C5364&height=3&width=1000"/>
+
+## 🏆 Flagship Builds
+
+<details open>
+<summary><b>🤖 AgentXAI — Multi-Agent AI Platform</b></summary>
 <br/>
 
+A production-oriented AI platform combining modern web architecture with autonomous AI workflows — multi-agent orchestration, streaming responses, and generative document pipelines in one system.
 
-# 🌐 Connect With Me
+`MERN` `Microservices` `LangChain` `LangGraph` `RAG` `Qdrant` `Redis` `Docker` `Redux Toolkit` `JWT`
 
+| Capability | Capability | Capability |
+|---|---|---|
+| Multi-Agent AI System | AI Chat Assistant | Code Generation & Preview |
+| Document Processing | PDF & PPT Generation | Image Generation |
+| AI Tool Calling | Streaming Responses | Auth + Payment Integration |
 
-<p align="left">
+</details>
 
-<a href="mailto:milanekanna24@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
-</a>
+<details>
+<summary><b>💬 Connectify — Real-Time Communication Platform</b></summary>
+<br/>
 
+A full-stack real-time chat application implementing communication architecture similar to modern collaboration platforms.
 
-<a href="https://www.linkedin.com/in/milan-devjs/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+`MERN` `WebSockets` `Authentication`
 
+- Real-time messaging over WebSockets with live online-status tracking
+- Secure, authenticated APIs behind a dynamic, responsive frontend
 
-<a href="https://milan-portfolio-dev.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
-</a>
+</details>
 
+<details>
+<summary><b>🏥 Healthcare Recruitment & Patient Management Platform</b></summary>
+<br/>
 
-<a href="https://github.com/MilanEkanna">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
+A healthcare-focused platform built to streamline recruitment workflows and patient data management.
 
-</p>
+`React.js` `Node.js` `REST APIs`
 
+- End-to-end recruitment workflow management
+- Frontend performance optimization and backend integration for smoother user experience
 
+</details>
 
-# 💻 Tech Stack
+<details>
+<summary><b>✅ TaskMate — Task Management Application</b></summary>
+<br/>
 
+A structured, MVC-driven task manager built around reusable components.
 
-## ⚛️ Frontend Development
+`MERN Stack` `MVC Architecture`
 
+- Full CRUD task lifecycle with drag-and-drop functionality
+- Organized, maintainable workflow architecture
 
-<p>
+</details>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,html,css,tailwind,redux,vite"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203A43,100:2C5364&height=3&width=1000"/>
 
-</p>
+## 💼 Engineering Strengths
 
+<table align="center">
+<tr>
+<th>Full Stack Delivery</th>
+<th>Architecture & Systems</th>
+<th>Product Ownership</th>
+</tr>
+<tr valign="top">
+<td>
 
-### Frontend Expertise
+Building scalable full-stack apps<br/>
+Designing secure, clean APIs<br/>
+Optimizing app performance<br/>
+Debugging complex issues<br/>
+Creating reusable components
 
-🚀 Building scalable React applications  
-⚡ Optimizing rendering performance  
-🧩 Creating reusable component systems  
-📦 Managing complex application state  
-🎨 Developing responsive user experiences  
+</td>
+<td>
 
+Microservices & API design patterns<br/>
+Database scaling & caching strategies<br/>
+Distributed systems fundamentals<br/>
+Production-ready application design
 
----
+</td>
+<td>
 
-# ⚙️ Backend Engineering
+Taking ownership of features<br/>
+Converting ideas into working products<br/>
+Working closely with founders/teams<br/>
+Solving undefined problems fast
 
+</td>
+</tr>
+</table>
 
-<p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203A43,100:2C5364&height=3&width=1000"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,postgres,mysql"/>
-
-</p>
-
-
-### Backend Expertise
-
-🔥 Designing scalable REST APIs  
-🔐 Implementing authentication & authorization systems  
-⚡ Building real-time applications  
-🚀 Developing backend services and workflows  
-📈 Optimizing performance using caching strategies  
-
-
----
-
-# 🗄️ Database & Storage
-
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis"/>
-
-</p>
-
-
-### Database Skills
-
-- Database Schema Design
-- Query Optimization
-- Data Modeling
-- MongoDB Aggregations
-- Redis Caching Strategies
-- API Data Management
-
-
-
----
-
-# 🤖 AI Engineering
+# 🏗️ System Design & Scalable Architecture
 
 
-<p>
+I am continuously improving my understanding of **large-scale system architecture** and applying these concepts while building production-ready applications.
 
-<img src="https://skillicons.dev/icons?i=python"/>
-
-</p>
+My focus is moving from building applications that simply work → designing systems that are **scalable, reliable, maintainable, and performance-driven.**
 
 
-### AI Application Development
+## ⚡ Architecture & Backend Design
+
+![Architecture](https://img.shields.io/badge/System%20Design-Architecture-blue?style=for-the-badge)
 
 
-![LangChain](https://img.shields.io/badge/LangChain-AI%20Framework-black?style=for-the-badge)
-
-![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Workflows-blue?style=for-the-badge)
-
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-green?style=for-the-badge)
-
-![Vector DB](https://img.shields.io/badge/Vector%20Database-Qdrant-purple?style=for-the-badge)
-
-![LLM](https://img.shields.io/badge/LLM-Application%20Development-orange?style=for-the-badge)
-
-
-Experience exploring:
-
-- AI Agents
-- LLM Applications
-- Prompt Engineering
-- Retrieval Augmented Generation
-- Vector Search
-- AI Automation Workflows
+- Designing scalable full-stack application architectures
+- Building modular and maintainable backend systems
+- Understanding monolithic vs microservices architecture
+- Designing service-oriented backend structures
+- Applying clean architecture principles
+- Creating production-ready application workflows
 
 
 ---
 
-# 🛠️ Tools & DevOps
+## 🚀 API Design & Backend Engineering
+
+![Backend](https://img.shields.io/badge/Backend-Engineering-green?style=for-the-badge)
 
 
-<p>
+Working with:
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode"/>
+- REST API architecture
+- API scalability patterns
+- Authentication & Authorization flows
+- JWT-based security systems
+- Middleware design patterns
+- Error handling strategies
+- Rate limiting concepts
+- Background processing workflows
 
-</p>
+
+---
+
+## 🗄️ Database Design & Optimization
+
+![Database](https://img.shields.io/badge/Database-Design-orange?style=for-the-badge)
 
 
-### Engineering Tools
+Understanding:
 
-![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git)
+- Database schema design
+- Data modeling strategies
+- MongoDB aggregation pipelines
+- Query optimization
+- Indexing concepts
+- SQL vs NoSQL architecture decisions
+- Database scaling approaches
+
+
+---
+
+## ⚡ Performance & Caching Strategies
+
+![Redis](https://img.shields.io/badge/Redis-Caching-red?style=for-the-badge&logo=redis)
+
+
+Experience with:
+
+- Redis caching implementation
+- Reducing database load
+- Improving API response time
+- Session management
+- Distributed caching concepts
+- Performance optimization techniques
+
+
+---
+
+## 🔄 Real-Time & Event Driven Systems
+
+![WebSockets](https://img.shields.io/badge/WebSockets-Real--Time%20Systems-purple?style=for-the-badge)
+
+
+Building knowledge around:
+
+- WebSocket-based communication
+- Real-time messaging architecture
+- Event-driven workflows
+- Live data synchronization
+- Notification systems
+- Client-server communication patterns
+
+
+---
+
+## 🐳 Infrastructure & Deployment Concepts
 
 ![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker)
 
-![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange?style=for-the-badge&logo=postman)
 
-![VS Code](https://img.shields.io/badge/VS%20Code-Development-blue?style=for-the-badge&logo=visualstudiocode)
+Exploring:
+
+- Docker-based application deployment
+- Containerized services
+- Environment management
+- CI/CD fundamentals
+- Cloud deployment concepts
+- Scalable deployment strategies
+
+
+---
+
+## 🤖 AI System Architecture
+
+![AI Architecture](https://img.shields.io/badge/AI%20Architecture-Agentic%20Systems-black?style=for-the-badge)
+
+
+Applying system design concepts in AI-powered applications:
+
+- LLM application architecture
+- Retrieval-Augmented Generation (RAG) pipelines
+- Vector database integration
+- AI agent workflows
+- Multi-agent architectures
+- Streaming AI responses
+- Tool-calling systems
+
+
+---
+
+## 📚 Sharpening Right Now
+
+`Advanced Backend Architecture` `Distributed Systems` `AI Agent Workflows` `Cloud Deployment` `System Design` `Load Balancing` `High Availability Systems` `System Design Patterns`
+
+## 💬 Ask Me About
+
+`MERN Stack` `React Applications` `Node.js Backend` `Authentication Systems` `AI-Powered Applications` `Full-Stack Architecture` `Real-Time Systems`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203A43,100:2C5364&height=3&width=1000"/>
+
+<div align="center">
+
+### ⭐ If something here is useful to you, a star goes a long way.
+
+<img src="https://komarev.com/ghpvc/?username=MilanEkanna&label=Profile%20Views&color=38BDF8&style=flat"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+
+</div>
