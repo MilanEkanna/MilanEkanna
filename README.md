@@ -28,9 +28,13 @@ I do my best work in **startup-style environments** — ownership over tickets, 
 <td>
 
 **🎓 Education** — B.Tech, Information Technology (2024)
+
 **💼 Experience** — 1.7+ yrs full-time MERN + 6 mo. industry training
+
 **📍 Location** — Greater Noida, Uttar Pradesh, India
+
 **🟢 Availability** — Immediate Joiner
+
 **🎯 Open to** — Full Stack Developer · MERN Developer · Software Engineer · React.js Developer · Node.js Developer · Backend Developer · Product Engineer · AI Full Stack Developer
 
 </td>
