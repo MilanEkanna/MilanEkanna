@@ -1,3 +1,7 @@
+<p align="center">
+<img src="./banner.png" width="100%" />
+</p>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Hi,%20I'm%20Milan%20Ekanna&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20MERN%20Developer%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20AI%20Product%20Builder&descAlignY=54&descSize=17"/>
@@ -28,9 +32,13 @@ I do my best work in **startup-style environments** — ownership over tickets, 
 <td>
 
 **🎓 Education** — B.Tech, Information Technology (2024)
+
 **💼 Experience** — 1.7+ yrs full-time MERN + 6 mo. industry training
+
 **📍 Location** — Greater Noida, Uttar Pradesh, India
+
 **🟢 Availability** — Immediate Joiner
+
 **🎯 Open to** — Full Stack Developer | MERN Developer | React.js Developer | Node.js Developer | Backend Developer
 
 </td>
